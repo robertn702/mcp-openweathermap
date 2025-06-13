@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides comprehensive weather data and forecasts through the OpenWeatherMap API. This server enables AI assistants to access real-time weather information, forecasts, air quality data, and location services.
 
+<a href="https://glama.ai/mcp/servers/@robertn702/mcp-openweathermap">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@robertn702/mcp-openweathermap/badge" alt="OpenWeatherMap Server MCP server" />
+</a>
+
 ## Features
 
 ### Weather Tools
